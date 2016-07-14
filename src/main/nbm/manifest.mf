@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+OpenIDE-Module-Name: Gephi Hive CDH Plugin
+OpenIDE-Module-Short-Description: Gephi Hive (CDH) Plugin
+OpenIDE-Module-Long-Description: Gephi Hive (CDH) Plugin
+OpenIDE-Module-Display-Category: Import
